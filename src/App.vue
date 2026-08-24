@@ -13,6 +13,7 @@
       >
     </spectrum>
   </div>
+  <p>To enable HDR mode on chrome and edge browsers, enable chrome://flags#enable-experimental-web-platform-features</p>
 </template>
 
 <script setup lang="ts">
